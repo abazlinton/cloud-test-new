@@ -19,7 +19,7 @@
     ],
     "rules": {
         "react/prop-types": 0,
-        "semi": "warn"
+        "semi": "error"
     },
     "settings": {
         "react": {
